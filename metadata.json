@@ -1,0 +1,14 @@
+{
+  "name": "beaver-logconf",
+  "version": "0.1.0",
+  "author": "Patrick McClory",
+  "summary": "Basic module to configure python-beaver for log shipping on top of a pre-existing installation (baked into AMI/Image).",
+  "license": "ISC",
+  "source": "https://github.com/patrickmcclory/beaver-logconf",
+  "project_page": "https://github.com/patrickmcclory/beaver-logconf",
+  "issues_url": "https://github.com/patrickmcclory/beaver-logconf/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
